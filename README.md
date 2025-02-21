@@ -72,7 +72,7 @@ npm install
 
 3. Create a `.env.local` file in the frontend root directory:
 ```env
-NEXT_PUBLIC_API_URL=https://bfhl-assignment-lovat.vercel.app/bfhl
+NEXT_PUBLIC_API_URL=https://bfhl-brown.vercel.app/bfhl
 ```
 
 4. Start the development server:
