@@ -5,7 +5,7 @@ This project consists of a backend API built with Express.js and a frontend appl
 ## Live Deployment URLs
 
 - Backend URL: https://bfhl-brown.vercel.app/
-- Frontend URL: https://bfhl-assignment-slcc.vercel.app/
+- Frontend URL: https://bfhl-zrmk.vercel.app/
 
 ## Project Structure
 
