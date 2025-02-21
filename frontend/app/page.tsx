@@ -2,7 +2,7 @@
 import { useState } from 'react'
 import { ApiResponse, FilterOption } from '@/types'
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://bfhl-assignment-lovat.vercel.app/bfhl'
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://bfhl-brown.vercel.app/bfhl'
 
 const filterOptions: FilterOption[] = [
   { label: 'Numbers', value: 'numbers' },
